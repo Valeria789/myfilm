@@ -1,0 +1,45 @@
+body {
+    background-color: brown
+}
+h1 {
+    color: rgb(236, 100, 100);
+    font-size: 45px;
+    text-align: center;
+    box-shadow : 40px;
+}
+
+  li {
+      font-size: 22px;
+      color: red;
+
+}
+.text-1 {
+    color: red;
+}
+.text-2 {
+   color: grey;
+}   
+.text-3  {
+    color: blueviolet;
+}
+.text-4 {
+    color: blanchedalmond;
+}
+.text-5 {
+    color: blue;
+}
+.text-6 {
+    color: beige;
+}
+.text-7 {
+    color: aqua;
+}
+
+.photo-1 {
+    width: 500px;
+    height: 200px;
+    margin-left: 250px;
+}
+.linb {
+     text-decoration: none
+}
